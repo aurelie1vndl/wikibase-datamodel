@@ -40,7 +40,7 @@
         "phpunit/phpunit": "~9",
         "php-parallel-lint/php-parallel-lint": "^1.2",
         "mediawiki/mediawiki-codesniffer": "~38.0",
-        "wikibase/media-info": "dev-master#d86d961a0eb0c28e9b5d8ce600c64a9dae973533"
+        "wikibase/media-info": "dev-master"
     },
     "repositories":[
         {
