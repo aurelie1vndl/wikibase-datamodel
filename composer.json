@@ -1,5 +1,5 @@
 {
-    "name": "addwiki/wikibase-datamodel",
+    "name": "aurelie1vndl/wikibase-datamodel",
     "type": "library",
     "description": "A Wikibase datamodel",
     "keywords": ["MediaWiki", "Wikibase", "Wikidata", "datamodel"],
